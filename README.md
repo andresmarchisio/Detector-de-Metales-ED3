@@ -8,4 +8,4 @@ Se trata de del proyecto final de Electrónica Digital 3. Un detector de metales
 
 # Diagrama de Bloques: 
  ![image alt]( https://github.com/andresmarchisio/Detector-de-Metales-ED3/blob/96b46c67a6d45b8dd89fe48075b201c57babe115/diagramaBloquesMain.png)
-![image alt]()
+![image alt](https://github.com/andresmarchisio/Detector-de-Metales-ED3/blob/418263ddcf0b0b381abd667a6b2125b3c1662e3d/diagramaBloquesinterrup.png)
